@@ -1,0 +1,7 @@
+ebin/*.beam
+erl_crash.dump
+.idea/
+Mnesia.nonode@nohost
+.erlang.mk/
+cache.d
+_rel/

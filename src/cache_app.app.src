@@ -1,0 +1,16 @@
+{application, cache,
+  [{description, "Cache application"},
+    {vsn, "0.1.0"},
+    {registered, []},
+    {mod, {cache_app, []}},
+    {applications,
+      [kernel,
+        stdlib,
+        mnesia
+      ]},
+    {env, []},
+    {modules, []},
+    {maintainers, []},
+    {licenses, []},
+    {links, []}
+  ]}.
